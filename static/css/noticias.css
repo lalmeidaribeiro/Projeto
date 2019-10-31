@@ -21,7 +21,7 @@ h2{
     padding: 10px;
     background: #133949;
     color: #d6d6d6;
-    width: 930px;
+    width: 945px;
     height: 300px;
 }
 .imagem{
@@ -37,7 +37,7 @@ h2{
     float: left;
  }
 
- .teste {
+ .teste{
     position: absolute;
     margin-top: 55px;
     margin-left: 299px;
